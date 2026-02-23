@@ -1,3 +1,8 @@
+CT100/G/23925/24
+VICTOR KIBET RANDABUN
+kibetvictor630@gmail.com
+kibet-lgtm
+
 import java.util.Scanner;
 
 // i) StudentRecord class
